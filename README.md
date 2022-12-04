@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bishal-dhakal.
-- 👀 I’m interested in Machine Learning.
+- 👀 I’m interested in Machine Learning & Linux.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .
